@@ -60,7 +60,7 @@ Personal portfolio API built with Django & Django REST Framework (DRF) to manage
   ```
   Authorization: Token your_token_here
   ```
-
+http://127.0.0.1:8000/api/skills/
 ---
 
 ## 📚 API Endpoints
